@@ -1,0 +1,61 @@
+body {
+  margin: 0;
+  font-family: Roboto, Arial;
+}
+a {
+  text-decoration: none;
+}
+svg {
+  vertical-align: middle;
+}
+
+.btn {
+  padding: 6px 22px;
+  font-size: 24px;
+  line-height: 1.5;
+  display: inline-block;
+  margin-bottom: 0;
+  vertical-align: middle;
+  text-align: center;
+  white-space: nowrap;
+  font-weight: 400;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  border-radius: 8px;
+}
+
+form {
+  display: block;
+  margin-top: 0em;
+}
+img {
+  vertical-align: middle;
+  max-width: 100%;
+  height: auto;
+  border: 0;
+}
+
+h4 {
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 28px;
+  margin: 3rem 0 1rem;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+h3 {
+  margin: 3rem 0 1rem;
+}
+
+svg {
+  vertical-align: middle;
+}
+
+p {
+  font-size: 20px;
+  line-height: 28px;
+  
+}
